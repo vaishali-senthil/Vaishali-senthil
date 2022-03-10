@@ -2,6 +2,7 @@
 
 <img align="right" alt ="Coding" width="350" src="https://upliftcorrect.com/wp-content/uploads/2021/08/55537-girl-on-computer-with-idea.gif">
 <br>
+<p></p>
 🔭 I’m currently pursuing <b>Software Engineering in VIT Vellore</b><br>
 🌱 I’m currently learning <b>Cloud, Software Process and Tools and Deep Learning</b>
 
